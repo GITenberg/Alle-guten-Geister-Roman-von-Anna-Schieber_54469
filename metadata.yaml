@@ -1,5 +1,8 @@
 _repo: Alle-guten-Geister-Roman-von-Anna-Schieber_54469
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 54469-h/images/cover.jpg
 creator:
   author:
     agent_name: Schieber, Anna
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '37014'
     url: http://www.gutenberg.org/2009/agents/37014
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54469#Alle-guten-Geister-Roman-von-Anna-Schieber
 gutenberg_issued: '2017-04-01'
 gutenberg_type: Text
 identifiers:
